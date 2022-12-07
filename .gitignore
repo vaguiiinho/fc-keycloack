@@ -1,0 +1,4 @@
+go.sum
+.history
+.vscode
+.docker/
